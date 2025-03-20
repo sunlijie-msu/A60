@@ -1,0 +1,407 @@
+Program for consistency check: output for averaging results for gamma energies and intensities (version 02/26/2025)
+Generated at: Thu 03/20/2025 at 12:24:48 AM EDT
+
+**************** Level=1003.7 in 60ZN     *******************ID#=1-2
+
+------ average E------
+Data points of E record
+*                      2001MA96   1003.7(2)           weight=20.00%
+*                      2021Or01   1003.51(10)         weight=80.00%
+
+Averaging results:
+           weighted average:      1003.55(9)           (internal)
+                                  1003.55(8)           (external)
+                                  chi**2/(n-1)=0.722     [critical=4.605]
+         unweighted average:      1003.61(10)         
+           (of all values)        chi**2/(n-1)=0.018     [critical=4.605]
+
+   suggested adopted result:      1003.55(10)         
+       (Weighted-Of-All)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cL E$weighted average of 1003.7 {I2} (2001Ma96) and 1003.51 {I10}         
+ 60ZN2cL (2021Or01)                                                             
+
+### unweighted average comment (all values):
+ 60ZN cL E$unweighted average of 1003.7 {I2} (2001Ma96) and 1003.51 {I10}       
+ 60ZN2cL (2021Or01)                                                             
+
+
+**************** Level=1003.7     Gamma=1003.7 in 60ZN     *******************ID#=1-2-1
+
+------ average E------
+Data points of E record
+*                      2001MA96   1003.7(2)           weight=20.00%
+*                      2021Or01   1003.5(1)           weight=80.00%
+
+Averaging results:
+           weighted average:      1003.54(9)           (internal)
+                                  1003.54(8)           (external)
+                                  chi**2/(n-1)=0.800     [critical=4.605]
+         unweighted average:      1003.60(10)         
+           (of all values)        chi**2/(n-1)=0.020     [critical=4.605]
+
+   suggested adopted result:      1003.5(1)           
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG E$weighted average of 1003.7 {I2} (2001Ma96) and 1003.5 {I1} (2021Or01)
+
+### unweighted average comment (all values):
+ 60ZN cG E$unweighted average of 1003.7 {I2} (2001Ma96) and 1003.5 {I1}         
+ 60ZN2cG (2021Or01)                                                             
+
+### Non-average comment:
+ 60ZN cG E$from 2021Or01. Other: 1003.7 {I2} (2001Ma96)                         
+
+
+<For Gamma=1003.7 from Level=1003.7>
+------ average RI------
+Data points of RI record
+*                      2001MA96   62(11)              weight=6.92%
+*                      2021Or01   62(3)               weight=93.08%
+
+Averaging results:
+           weighted average:      62.0(29)             (internal)
+                                  62.0(0)              (external)
+                                  chi**2/(n-1)=0.000     [critical=4.605]
+         unweighted average:      62.0(0)             
+           (of all values)        chi**2/(n-1)=0.000     [critical=4.605]
+
+   suggested adopted result:      62(3)               
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG RI$weighted average of 62 {I11} (2001Ma96) and 62 {I3} (2021Or01)      
+
+### unweighted average comment (all values):
+ 60ZN cG RI$unweighted average of 62 {I11} (2001Ma96) and 62 {I3} (2021Or01)    
+
+### Non-average comment:
+ 60ZN cG RI$from 2021Or01. Other: 62 {I11} (2001Ma96)                           
+
+
+**************** Level=2558.7 in 60ZN     *******************ID#=1-3
+
+------ average E------
+Data points of E record
+*                      2001MA96   2558.7(5)           weight=6.33%
+*                      2021Or01   2558.59(13)         weight=93.67%
+
+Averaging results:
+           weighted average:      2558.60(13)          (internal)
+                                  2558.597(27)         (external)
+                                  chi**2/(n-1)=0.045     [critical=4.605]
+         unweighted average:      2558.65(6)          
+           (of all values)        chi**2/(n-1)=0.006     [critical=4.605]
+
+   suggested adopted result:      2558.59(13)         
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cL E$weighted average of 2558.7 {I5} (2001Ma96) and 2558.59 {I13}         
+ 60ZN2cL (2021Or01)                                                             
+
+### unweighted average comment (all values):
+ 60ZN cL E$unweighted average of 2558.7 {I5} (2001Ma96) and 2558.59 {I13}       
+ 60ZN2cL (2021Or01)                                                             
+
+### Non-average comment:
+ 60ZN cL E$from 2021Or01. Other: 2558.7 {I5} (2001Ma96)                         
+
+
+**************** Level=2558.7     Gamma=1554.9 in 60ZN     *******************ID#=1-3-1
+
+------ average E------
+Data points of E record
+*                      2001MA96   1554.9(6)           weight=20.00%
+*                      2021Or01   1554.7(3)           weight=80.00%
+
+Averaging results:
+           weighted average:      1554.74(27)          (internal)
+                                  1554.74(8)           (external)
+                                  chi**2/(n-1)=0.089     [critical=4.605]
+         unweighted average:      1554.80(10)         
+           (of all values)        chi**2/(n-1)=0.020     [critical=4.605]
+
+   suggested adopted result:      1554.7(3)           
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG E$weighted average of 1554.9 {I6} (2001Ma96) and 1554.7 {I3} (2021Or01)
+
+### unweighted average comment (all values):
+ 60ZN cG E$unweighted average of 1554.9 {I6} (2001Ma96) and 1554.7 {I3}         
+ 60ZN2cG (2021Or01)                                                             
+
+### Non-average comment:
+ 60ZN cG E$from 2021Or01. Other: 1554.9 {I6} (2001Ma96)                         
+
+
+<For Gamma=1554.9 from Level=2558.7>
+------ average RI------
+Data points of RI record
+*                      2001MA96   7.4(31)             weight=2.54%
+*                      2021Or01   7.0(5)              weight=97.46%
+
+Averaging results:
+           weighted average:      7.0(5)               (internal)
+                                  7.01(6)              (external)
+                                  chi**2/(n-1)=0.016     [critical=4.605]
+         unweighted average:      7.20(20)            
+           (of all values)        chi**2/(n-1)=0.080     [critical=4.605]
+
+   suggested adopted result:      7.0(5)              
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG RI$weighted average of 7.4 {I31} (2001Ma96) and 7.0 {I5} (2021Or01)    
+
+### unweighted average comment (all values):
+ 60ZN cG RI$unweighted average of 7.4 {I31} (2001Ma96) and 7.0 {I5} (2021Or01)  
+
+### Non-average comment:
+ 60ZN cG RI$from 2021Or01. Other: 7.4 {I31} (2001Ma96)                          
+
+
+**************** Level=2558.7     Gamma=2559.0 in 60ZN     *******************ID#=1-3-2
+
+------ average E------
+Data points of E record
+*                      2001MA96   2559.0(8)           weight=20.00%
+*                      2021Or01   2558.7(4)           weight=80.00%
+
+Averaging results:
+           weighted average:      2558.8(4)            (internal)
+                                  2558.76(12)          (external)
+                                  chi**2/(n-1)=0.113     [critical=4.605]
+         unweighted average:      2558.85(15)         
+           (of all values)        chi**2/(n-1)=0.045     [critical=4.605]
+
+   suggested adopted result:      2558.8(4)           
+       (Weighted-Of-All)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG E$weighted average of 2559.0 {I8} (2001Ma96) and 2558.7 {I4} (2021Or01)
+
+### unweighted average comment (all values):
+ 60ZN cG E$unweighted average of 2559.0 {I8} (2001Ma96) and 2558.7 {I4}         
+ 60ZN2cG (2021Or01)                                                             
+
+
+<For Gamma=2559.0 from Level=2558.7>
+------ average RI------
+Data points of RI record
+*                      2001MA96   8.1(31)             weight=3.61%
+*                      2021Or01   8.5(6)              weight=96.39%
+
+Averaging results:
+           weighted average:      8.5(6)               (internal)
+                                  8.49(8)              (external)
+                                  chi**2/(n-1)=0.016     [critical=4.605]
+         unweighted average:      8.30(20)            
+           (of all values)        chi**2/(n-1)=0.080     [critical=4.605]
+
+   suggested adopted result:      8.5(6)              
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG RI$weighted average of 8.1 {I31} (2001Ma96) and 8.5 {I6} (2021Or01)    
+
+### unweighted average comment (all values):
+ 60ZN cG RI$unweighted average of 8.1 {I31} (2001Ma96) and 8.5 {I6} (2021Or01)  
+
+### Non-average comment:
+ 60ZN cG RI$from 2021Or01. Other: 8.1 {I31} (2001Ma96)                          
+
+
+**************** Level=4851.9 in 60ZN     *******************ID#=1-4
+
+------ average E------
+Data points of E record
+*                      2001MA96   4851.9(5)           weight=9.29%
+*                      2021Or01   4851.96(16)         weight=90.71%
+
+Averaging results:
+           weighted average:      4851.95(15)          (internal)
+                                  4851.954(18)         (external)
+                                  chi**2/(n-1)=0.013     [critical=4.605]
+         unweighted average:      4851.930(30)        
+           (of all values)        chi**2/(n-1)=0.002     [critical=4.605]
+
+   suggested adopted result:      4851.96(16)         
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cL E$weighted average of 4851.9 {I5} (2001Ma96) and 4851.96 {I16}         
+ 60ZN2cL (2021Or01)                                                             
+
+### unweighted average comment (all values):
+ 60ZN cL E$unweighted average of 4851.9 {I5} (2001Ma96) and 4851.96 {I16}       
+ 60ZN2cL (2021Or01)                                                             
+
+### Non-average comment:
+ 60ZN cL E$from 2021Or01. Other: 4851.9 {I5} (2001Ma96)                         
+
+
+**************** Level=4851.9     Gamma=2293.0 in 60ZN     *******************ID#=1-4-1
+
+------ average E------
+Data points of E record
+*                      2001MA96   2293.0(10)          weight=13.79%
+*                      2021Or01   2293.2(4)           weight=86.21%
+
+Averaging results:
+           weighted average:      2293.2(4)            (internal)
+                                  2293.17(7)           (external)
+                                  chi**2/(n-1)=0.034     [critical=4.605]
+         unweighted average:      2293.10(10)         
+           (of all values)        chi**2/(n-1)=0.020     [critical=4.605]
+
+   suggested adopted result:      2293.2(4)           
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG E$weighted average of 2293.0 {I10} (2001Ma96) and 2293.2 {I4}          
+ 60ZN2cG (2021Or01)                                                             
+
+### unweighted average comment (all values):
+ 60ZN cG E$unweighted average of 2293.0 {I10} (2001Ma96) and 2293.2 {I4}        
+ 60ZN2cG (2021Or01)                                                             
+
+### Non-average comment:
+ 60ZN cG E$from 2021Or01. Other: 2293.0 {I10} (2001Ma96)                        
+
+
+<For Gamma=2293.0 from Level=4851.9>
+------ average RI------
+Data points of RI record
+*                      2001MA96   6.2(31)             weight=2.54%
+*                      2021Or01   6.3(5)              weight=97.46%
+
+Averaging results:
+           weighted average:      6.3(5)               (internal)
+                                  6.298(16)            (external)
+                                  chi**2/(n-1)=0.001     [critical=4.605]
+         unweighted average:      6.25(5)             
+           (of all values)        chi**2/(n-1)=0.005     [critical=4.605]
+
+   suggested adopted result:      6.3(5)              
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG RI$weighted average of 6.2 {I31} (2001Ma96) and 6.3 {I5} (2021Or01)    
+
+### unweighted average comment (all values):
+ 60ZN cG RI$unweighted average of 6.2 {I31} (2001Ma96) and 6.3 {I5} (2021Or01)  
+
+### Non-average comment:
+ 60ZN cG RI$from 2021Or01. Other: 6.2 {I31} (2001Ma96)                          
+
+
+**************** Level=4851.9     Gamma=3848.3 in 60ZN     *******************ID#=1-4-2
+
+------ average E------
+Data points of E record
+*                      2001MA96   3848.3(7)           weight=24.62%
+*                      2021Or01   3848.5(4)           weight=75.38%
+
+Averaging results:
+           weighted average:      3848.45(35)          (internal)
+                                  3848.45(9)           (external)
+                                  chi**2/(n-1)=0.062     [critical=4.605]
+         unweighted average:      3848.40(10)         
+           (of all values)        chi**2/(n-1)=0.020     [critical=4.605]
+
+   suggested adopted result:      3848.5(4)           
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG E$weighted average of 3848.3 {I7} (2001Ma96) and 3848.5 {I4} (2021Or01)
+
+### unweighted average comment (all values):
+ 60ZN cG E$unweighted average of 3848.3 {I7} (2001Ma96) and 3848.5 {I4}         
+ 60ZN2cG (2021Or01)                                                             
+
+### Non-average comment:
+ 60ZN cG E$from 2021Or01. Other: 3848.3 {I7} (2001Ma96)                         
+
+
+<For Gamma=3848.3 from Level=4851.9>
+------ average RI------
+Data points of RI record
+*                      2001MA96   35(8)               weight=12.33%
+*                      2021Or01   38(3)               weight=87.67%
+
+Averaging results:
+           weighted average:      37.6(28)             (internal)
+                                  37.6(10)             (external)
+                                  chi**2/(n-1)=0.123     [critical=4.605]
+         unweighted average:      36.5(15)            
+           (of all values)        chi**2/(n-1)=4.500     [critical=4.605]
+
+   suggested adopted result:      38(3)               
+           (Non-Average)
+
+NOTE:  Suggested adopted result is just the preference of this average code which adopts
+          an uncertainty no smaller than any input uncertainty and uses combined weight for
+          getting the external uncertainty. It is user's decision to make the final choice.
+
+### weighted average comment:
+ 60ZN cG RI$weighted average of 35 {I8} (2001Ma96) and 38 {I3} (2021Or01)       
+
+### unweighted average comment (all values):
+ 60ZN cG RI$unweighted average of 35 {I8} (2001Ma96) and 38 {I3} (2021Or01)     
+
+### Non-average comment:
+ 60ZN cG RI$from 2021Or01. Other: 35 {I8} (2001Ma96)                            
+
+
