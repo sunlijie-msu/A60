@@ -1,5 +1,5 @@
 Program for consistency check: output for new dataset of Adopted Levels, Gammas with all data (version 02/26/2025)
-Generated at: Thu 03/20/2025 at 12:24:53 AM EDT                                 
+Generated at: Thu 03/20/2025 at 07:04:12 PM EDT                                 
                                                                                 
  60ZN  G 669.3     3 0.36    9                                                  
  60ZN  G 850.8     1 0.75    10                                                 
@@ -38,7 +38,7 @@ Generated at: Thu 03/20/2025 at 12:24:53 AM EDT
  60ZN cG E$weighted average of 2559.0 {I8} (2001Ma96) and 2558.7 {I4} (2021Or01)
  60ZN cG RI$from 2021Or01. Other: 8.1 {I31} (2001Ma96)                          
  60ZN  L 4851.96   16 2+                                                        
- 60ZN cL E$intrepreted as isobaric-analog state (T=1) of 60|?>g.s.              
+ 60ZN cL $T=1 isobaric analog state of {+60}Ga g.s.                             
  60ZN  G 2293.2    4 6.3     5                                                  
  60ZN cG E$from 2021Or01. Other: 2293.0 {I10} (2001Ma96)                        
  60ZN cG RI$from 2021Or01. Other: 6.2 {I31} (2001Ma96)                          

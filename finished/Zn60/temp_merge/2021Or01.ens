@@ -2,15 +2,14 @@
  60ZN c  Compiled (unevaluated) dataset from 2021Or01:                          
  60ZN2c  Phys Rev C 103, 014324 (2021)                                          
  60ZN c  Compiled by J. Chen (NSCL, MSU), March 7, 2021                         
- 60ZN c  2021Or01: {+60}Ga activity was from the decay of {+60}Ge produced via  
- 60ZN2c  {+9}Be({+78}Kr,X) with 345 MeV/nucleon {+78}Kr from the RIBF at RIKEN  
- 60ZN3c  on a 5 mm {+9}Be target. Fragments were separated, selected and        
- 60ZN4c  identified by the BigRIPS separator according to B|r-|DE-tof, and      
- 60ZN5c  transported and implanted into the WAS3ABi array consisting of three   
- 60ZN6c  DSSSDs at the exit of the ZeroDegree spectrometer. |g rays were        
- 60ZN7c  detected with the EURICA array of HPGe detectors. Measured E|g, I|g,   
- 60ZN8c  implant-decay time correlations. Deduced parent T{-1/2}, |g emission   
- 60ZN9c  probabilities.                                                         
+ 60ZN c  2021Or01: {+60}Ga was produced via {+9}Be({+78}Kr,X) using 345         
+ 60ZN2c  MeV/nucleon {+78}Kr from the RIBF at RIKEN on a 5 mm {+9}Be target.    
+ 60ZN3c  Fragments were separated, selected and identified by the BigRIPS       
+ 60ZN4c  separator according to B|r-|DE-tof, and transported and implanted into 
+ 60ZN5c  the WAS3ABi array consisting of three DSSSDs at the exit of the        
+ 60ZN6c  ZeroDegree spectrometer. |g rays were detected using the EURICA array  
+ 60ZN7c  of HPGe detectors. Measured E|g, I|g, implant-decay time correlations. 
+ 60ZN8c  Deduced parent T{-1/2}, |g emission probabilities.                     
  60ZN cG E,RI$From 2021Or01                                                     
  60ZN cL E$From a least-squares fit to |g-ray energies (by compiler)            
  60ZN cL J$As given in 2021Or01                                                 

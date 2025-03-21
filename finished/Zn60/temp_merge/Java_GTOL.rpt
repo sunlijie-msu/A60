@@ -1,0 +1,125 @@
+** Java program for fitting gammas&calculating feedings (version 02/18/2025) **
+Generated at: Thu 03/20/2025 at 08:15:06 PM EDT
+
+ Input file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\test.ens
+Report file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\Java_GTOL.rpt
+Output file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\Java_GTOL.out
+
+Rules for assigning uncertainties to gamma energies where not available:
+(unless otherwise specified by "DEG=" at the end (col>80) of gamma line)
+   Rule 0: No. of decimal digits=0, uncertainty=1
+   Rule 1: No. of decimal digits=1, uncertainty=0.5
+   Rule 2: No. of decimal digits=2, uncertainty=0.05
+
+(Above rules are by default for all gamma-ray energies, and will be;
+ overridden by a DEG option at the end of a gamma-line individually
+ or by a global DEG option at the top of a dataset)
+
+
+ assumptions for non-numerical uncertainties in RI and TI, unless otherwise specified:
+    DRI                assumed %DRI        
+    -----------        ------------        
+    Empty              20
+    LT or LE           50 for DRI(+); assumed RI=DRI(-)=%(100-this value)
+    GT or GE           100000000 for DRI(+); assumed DRI(-)=0
+    AP                 50
+    CA                 50
+    SY                 50
+
+   * DCC theory=1.4% assumed if DCC not given
+   * Uncertainty Limit=35 for rounding-up uncertainty in output
+
+
+   * Gammas marked by "?" are also used in the fitting and intensity calculations
+   * All gammas marked by "S" are ignored in the fitting and intensity calculations
+   * RI flagged by "&" are used as upper limits (RI+DRI) in intensity calculations:
+           Adjusted RI=(RI+DRI)/2=Adjusted DRI
+   * Maximum&Minimum approach is used to propagate large uncertainty (>10%) except E(level)
+
+
+##########################################################################################
+        GTOL report for dataset: << 60GA EC DECAY (69.4 MS) >>
+##########################################################################################
+
+
+-------------------------------------------------------------------------------------------------------------------
+                 Level Energies From Input (old), Fitting (new), and Adjustments for uncertainties                 
+-------------------------------------------------------------------------------------------------------------------
+#Level  old           Input        From fit       After adding dE of base levels:          Has Gamma:        Fixed 
+        kept                      (original)       metastable    fixed("G")/other     Deexciting  Feeding     Type 
+------ ------ --------------- ---------------    --------------- ----------------     ---------- ----------  ------
+     1  kept             0               0    *         -----            -----           ---        Yes        D   
+     2             1003.51 10      1003.53 10           -----            -----           Yes        Yes       ---  
+     3             2558.59 13      2558.54 23           -----            -----           Yes        Yes       ---  
+     4             4851.96 16      4851.97 32           -----            -----           Yes        ---       ---  
+-------------------------------------------------------------------------------------------------------------------
+NOTE: --- indicates Not Applicable.
+        * indicates level fixed in fitting.
+        & from original uncertainty adjusted based on input settings.
+        # non-numerical uncertainty is from fitting gammas or end-level.
+      Quoted values under "From fit" for fixed levels are taken from their input values.
+      Fixed Type="A": assumed fixed by GTOL for level not connected to any level; not used in the fitting.
+                ="D": assumed fixed by GTOL for meta-stable level, with %(all decay modes but IT)>99.75;
+                      uncertainty will be added after fitting (1st level always this type by default).
+                ="S": assumed fixed by GTOL for level which causes singular matrix problem; uncertainty=0 assumed.
+                ="F": energy is fixed and uncertainty=0 assumed for fitting.
+                ="G": energy is fixed in fitting and uncertainty will be added after fitting.
+           Only type "F" and "G" are set by user by inserting the type letter in the energy field (col 10-20).
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Input and fitted Gamma Energies                                                             
+#Gamma        Input EG    Adjusted dEG   Initial Level     Final Level     EG From fit   Difference   Diff/dEG  #sigma       Chi2    %Chi2      Input EG
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+     1      1003.5  1         -----        1003.53 10            0          1003.52 10      -0.0201      0.201       0      0.040     1.97     1003.5  1 
+     2      1554.7  3         -----        2558.54 23      1003.53 10       1554.99 22      -0.2868      0.956       1      0.914    44.71     1554.7  3 
+     3      2558.8  4         -----        2558.54 23            0          2558.48 23       0.3212      0.803       1      0.645    31.56     2558.8  4 
+     4      2293.2  4         -----        4851.97 32      2558.54 23       2293.39 31      -0.1886      0.471       0      0.222    10.88     2293.2  4 
+     5      3848.5  4         -----        4851.97 32      1003.53 10       3848.31 31       0.1886      0.471       0      0.222    10.88     3848.5  4 
+                                                                                                                 chi2=      2.043
+                                                                                                             chi2/dof=      1.022
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+NOTE: * at initial level indicates level fixed in the fitting.
+      ## in #sigma column marks number of sigma>=4.
+      Quoted level energies are from fit.
+      #sigma=round(Diff/dEG), by which the input EG differs from the fitted one.
+      dEG=1 keV is assigned if not given, unless otherwise specified at the end of each gamma line.
+
+
+#of Levels= 4      #of fixed Levels= 1      #of Gammas in fitting= 5
+Degrees of Freedom (dof)= 2
+    Chi2= 2.0432
+Chi2/dof= 1.0216
+(critical Chi2/dof= 4.6050)
+
+
+-----------------------------------------------------------------------------------------------------------------
+                     Calculated Net Feeding from (gamma+ce) Intensity Balance at Each Level                      
+-----------------------------------------------------------------------------------------------------------------
+         Level        RI           RI         RI          TI           TI         TI          Net Feeding (%)  
+                     (OUT)        (IN)       (NET)       (OUT)        (IN)       (NET)        CALC*       INPUT
+-----------------------------------------------------------------------------------------------------------------
+          0         0.0        70.5 31    -70.5 31      0.0        70.5 31   -70.5 31       -70.5 31            
+    1003.53 10     62.0 30     45.0 31       17  4     62.0 30     45.0 31      17  4          17  4            
+    2558.54 23     15.5  8      6.3  5      9.2  9     15.5  8      6.3  5     9.2  9         9.2  9            
+    4851.97 32     44.3 31      0.0        44.3 31     44.3 31      0.0       44.3 31        44.3 31            
+
+                                                                      Sum of Feedings=         71 5         0 0
+-----------------------------------------------------------------------------------------------------------------
+From input:
+  NR=    1.0       For normalizing RI to per 100 parent decays via this branch
+  NT=              For normalizing TI to per 100 parent decays via this branch
+  BR=    1.0       Branching ratio of this decay branch among all decay branches
+  NB=    1.0       For normalizing IB to per 100 parent decays via this branch
+
+* Calculated feedings are based on input NR. Uncertainties could be over-counted for gammas used in
+    normalization to deduce NR.
+  More accurate level feedings could be obtained directly from the normalization process for deducing NR
+    where correlations are taken into account. See the table of level feedings in Java_GABS.rpt.
+
+
+
+
+End of report
+

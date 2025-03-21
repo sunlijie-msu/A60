@@ -1,5 +1,5 @@
 Program for ENSDF check: output for Format Error and Warnings (version 02/26/2025)
-Generated at: Thu 03/20/2025 at 12:24:48 AM EDT
+Generated at: Thu 03/20/2025 at 06:59:40 PM EDT
 
 ****************************************
      Total 9 errors 2 warnings
@@ -14,9 +14,9 @@ Generated at: Thu 03/20/2025 at 12:24:48 AM EDT
 
       1.  60ZN    2001MA96                      2001MA96                           200201
                   ********                                                                 <W> Check uncommon DSID
-     11.  60ZN PN                                                                     4  
+     12.  60ZN PN                                                                     4  
                                                                                       *    <E> OPT=4 not allowed for  dataset
-     12.  60GA  P   0           2+                70 MS   15               14180   60    
+     13.  60GA  P   0           2+                70 MS   15               14180   60    
                 *                                                                          <E> Invalid record type for dataset
 
 -----------------------------------------------------------------------------------------

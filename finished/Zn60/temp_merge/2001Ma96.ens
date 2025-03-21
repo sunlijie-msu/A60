@@ -5,6 +5,7 @@
  60ZN c  Source of {+60}Ga produced by {+28}Si({+36}Ar,p3n) reaction at 4.71    
  60ZN2c  MeV/nucleon followed by mass separation. Measured E|g, I|g, |g|g,      
  60ZN3c  |b|g|g coin, |bp, |b|a coin, half-life.                                
+ 60ZN c  Changed PN from 5 to 4 and renormalized 1004 from 100 to 62 (2021Or01).
  60ZN c  Measured %|bp=1.6 {I7}, %|ap<0.023 {I20}                               
  60ZN  N  1                     1         1                                     
  60ZN cN BR$%|b{++}p=1.6 {I7}                                                   
@@ -17,6 +18,6 @@
  60ZN  G 1554.9    6  7.4    31                                                 
  60ZN  G 2559.0    8  8.1    31                                                 
  60ZN  L 4851.9    5  2+                                                        
- 60ZN cL E$intrepreted as isobaric-analog state (T=1) of 60|?>g.s.              
+ 60ZN cL $T=1 isobaric analog state of {+60}Ga g.s.                             
  60ZN  G 2293.0    10 6.2    31                                                 
  60ZN  G 3848.3    7  35     8                                                  
