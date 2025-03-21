@@ -22,11 +22,12 @@
  60ZN5c  the WAS3ABi array consisting of three DSSSDs at the exit of the        
  60ZN6c  ZeroDegree spectrometer. |g rays were detected using the EURICA array  
  60ZN7c  of HPGe detectors. Measured E|g, I|g, implant-decay time correlations. 
- 60ZN8c  Deduced parent T{-1/2}, |g emission probabilities.                     
+ 60ZN8c  Deduced {+60}Ga T{-1/2} and mass excess.
  60GA  P 0           2+                69.4 MS   3              14160     15    
  60GA cP J$From Adopted Levels of {+60}Ga                                       
  60GA cP T$Weighted average of 70 ms {I15} (2001Ma96), 70 ms {I13} (2002Lo13),  
- 60GA2cP 76 ms {I3} (2017Ku12), and 69.4 ms {I2} (2021Or01)                     
+ 60GA2cP 76 ms {I3} (2017Ku12), 70.8 ms {I20} (2020Gi02), and 69.4 ms {I2}      
+ 60GA3cP (2021Or01)                                                             
  60GA cP QP$Deduced by evaluators using {+60}Ga mass excesses of -40015         
  60GA2cP {I15}; weighted average of -40016 {I15} (2021Or01), -40005 {I30}       
  60GA3cP (2021Pa44), and -40034 {I46} (2023Wa10).                               
@@ -34,7 +35,7 @@
  60ZN cN NR$Absolute |g-ray intensities per 100 decays of {+60}Ga were measured 
  60ZN2cN by 2021Or01 based on the total number of implanted {+60}Ga and |g-ray  
  60ZN3cN detection efficiencies.                                                
- 60ZN cN BR$%|b{++}p=1.6 {I7}
+ 60ZN cN BR$%|b{++}p=1.6 {I7}, %|b{++}|a<0.023 {I20}
  60ZN PN                                                                     4  
  60ZN  G 669.3     3 0.36    9                                                  
  60ZN2 G %IG=0.36                                                               
