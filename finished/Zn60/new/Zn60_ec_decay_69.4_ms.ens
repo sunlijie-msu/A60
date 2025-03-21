@@ -3,7 +3,6 @@
  60ZN2 H CIT=ENSDF$CUT=30-Sep-2027$                                             
  60ZN  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$                                     
  60ZN2 H CIT=NDS 114, 1849 (2013)$CUT=31-Dec-2012$                              
- 60ZN DE LOGFT,CK,CL,CM,CN$FROM BetaShape v2.4 (Jun-2024) 2019MO35.             
  60ZN DE EAV,LOGFT$FROM BetaShape v2.4 (Jun-2024) 2023MO21.                     
  60ZN DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
  60ZN dL E$Least-squares fitting is done by GLSC (version 18-Feb-2025)          
