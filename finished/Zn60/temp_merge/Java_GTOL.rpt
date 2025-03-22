@@ -1,7 +1,7 @@
 ** Java program for fitting gammas&calculating feedings (version 02/18/2025) **
-Generated at: Thu 03/20/2025 at 08:15:06 PM EDT
+Generated at: Fri 03/21/2025 at 10:18:01 PM EDT
 
- Input file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\test.ens
+ Input file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\2001MA96,2021OR01.ens
 Report file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\Java_GTOL.rpt
 Output file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\Java_GTOL.out
 
@@ -100,15 +100,15 @@ Chi2/dof= 1.0216
          Level        RI           RI         RI          TI           TI         TI          Net Feeding (%)  
                      (OUT)        (IN)       (NET)       (OUT)        (IN)       (NET)        CALC*       INPUT
 -----------------------------------------------------------------------------------------------------------------
-          0         0.0        70.5 31    -70.5 31      0.0        70.5 31   -70.5 31       -70.5 31            
-    1003.53 10     62.0 30     45.0 31       17  4     62.0 30     45.0 31      17  4          17  4            
-    2558.54 23     15.5  8      6.3  5      9.2  9     15.5  8      6.3  5     9.2  9         9.2  9            
-    4851.97 32     44.3 31      0.0        44.3 31     44.3 31      0.0       44.3 31        44.3 31            
+          0         0.0         114  5     -114  5      0.0         114  5    -114  5       -70.5 32            
+    1003.53 10      100  5       72  5       28  7      100  5       72  5      28  7          17  5            
+    2558.54 23     25.0 13     10.2  8     14.8 15     25.0 13     10.2  8    14.8 15         9.2 10            
+    4851.97 32       71  5      0.0          71  5       71  5      0.0         71  5        44.1 32            
 
-                                                                      Sum of Feedings=         71 5         0 0
+                                                                      Sum of Feedings=         71 6         0 0
 -----------------------------------------------------------------------------------------------------------------
 From input:
-  NR=    1.0       For normalizing RI to per 100 parent decays via this branch
+  NR=   0.62  0    For normalizing RI to per 100 parent decays via this branch
   NT=              For normalizing TI to per 100 parent decays via this branch
   BR=    1.0       Branching ratio of this decay branch among all decay branches
   NB=    1.0       For normalizing IB to per 100 parent decays via this branch
