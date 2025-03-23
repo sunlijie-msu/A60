@@ -1,47 +1,4 @@
 Program for ENSDF check: output for Format Error and Warnings (version 02/26/2025)
-Generated at: Thu 03/20/2025 at 06:59:40 PM EDT
+Generated at: Sat 03/22/2025 at 07:58:11 PM EDT
 
-****************************************
-     Total 9 errors 2 warnings
-****************************************
-
------------------------------------------------------------------------------------------
-    In file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\2001Ma96.ens
------------------------------------------------------------------------------------------
-
-#########################################################################################
-### In dataset <60ZN: 2001MA96>
-
-      1.  60ZN    2001MA96                      2001MA96                           200201
-                  ********                                                                 <W> Check uncommon DSID
-     12.  60ZN PN                                                                     4  
-                                                                                      *    <E> OPT=4 not allowed for  dataset
-     13.  60GA  P   0           2+                70 MS   15               14180   60    
-                *                                                                          <E> Invalid record type for dataset
-
------------------------------------------------------------------------------------------
-    In file: D:\X\ND\Files\A60\finished\Zn60\temp_merge\2021Or01.ens
------------------------------------------------------------------------------------------
-
-
-#########################################################################################
-### In dataset <60ZN: 2021Or01>
-
-      1.  60ZN    2021Or01                      2021Or01                           202106
-                  ********                                                                 <W> Check uncommon DSID
-                       ***                                                                 <E> Lower-case letter in DSID
-     17.  60GA  P  0           2+                69.4 MS  2              14580     SY    
-                *                                                                          <E> Invalid record type for dataset
-     18.  60GA cP J$As given in 2021Or01. (2+) from Adopted Levels of {+59}Zn in ENSDF   
-                *                                                                          <E> Invalid record type for dataset
-     19.  60GA2cP database                                                               
-                *                                                                          <E> Invalid record type for dataset
-     20.  60GA cP T$From implant-|b(t) (2021Or01)                                        
-                *                                                                          <E> Invalid record type for dataset
-     21.  60GA cP QP$14580 {I200} (syst,2017Wa10)                                        
-                *                                                                          <E> Invalid record type for dataset
-     23.  60ZN PN                                                                     4  
-                                                                                      *    <E> OPT=4 not allowed for  dataset
-
-
-End of report
+No problems are found!

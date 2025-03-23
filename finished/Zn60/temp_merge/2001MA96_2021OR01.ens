@@ -13,7 +13,8 @@
  60ZN5c  scintillator; |g rays were detected using Clover Ge detectors;         
  60ZN6c  particles were detected using Si |DE-E telescopes. A total of 802      
  60ZN7c  proton events were observed. Measured E|g, I|g, |g|g, |b|g|g, |bp,     
- 60ZN8c  |b|a, half-life. Measured %|b+p=1.6 {I7}, %|b+|a<0.023 {I20}.          
+ 60ZN8c  |b|a, half-life. Measured %(|e+|b{++})p=1.6 {I7}, %(|e+|b{++})|a<0.023 
+ 60ZN9c  {I20}.                                                                 
  60ZN c  2021Or01: {+60}Ga was produced via {+9}Be({+78}Kr,X) using 345         
  60ZN2c  MeV/nucleon {+78}Kr from the RIBF at RIKEN on a 5 mm {+9}Be target.    
  60ZN3c  Fragments were separated, selected and identified by the BigRIPS       
