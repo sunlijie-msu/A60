@@ -24,9 +24,8 @@
  60ZN7c  of HPGe detectors. Measured E|g, I|g, implant-decay time correlations. 
  60ZN8c  Deduced {+60}Ga T{-1/2} and mass excess.                               
  60ZN c  The decay scheme is considered incomplete due to a large gap of about 9
- 60ZN2c  MeV between the highest observed level at E=4852 and Q(|e)             
- 60ZN3c  value=14160 {I15}. There may be missing transitions from unobserved    
- 60ZN4c  levels in the gap.                                                     
+ 60ZN2c  MeV between the highest observed level at E=4852 and Q(|e)=14160 {I15}.
+ 60ZN3c  There may be missing transitions from unobserved levels in the gap.    
  60ZN cE TI,LOGFT$|e+|b{++}-feeding from |g+ce intensity balance at each level. 
  60ZN2cE Quoted I(|e+|b{++}) values are considered upper limits due to the      
  60ZN3cE incomplete decay scheme, and the associated log {Ift} values are       
