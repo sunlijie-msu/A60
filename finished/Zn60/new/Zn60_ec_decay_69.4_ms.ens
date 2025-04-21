@@ -3,8 +3,8 @@
  60ZN2 H CIT=ENSDF$CUT=1-Mar-2025$                                              
  60ZN  H TYP=FUL$AUT=E. BROWNE, J. K. TULI$                                     
  60ZN2 H CIT=NDS 114, 1849 (2013)$CUT=31-Dec-2012$                              
- 60ZN DE EAV,LOGFT$FROM BetaShape v2.4 (Jun-2024) 2023MO21.                     
- 60ZN DG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
+ 60ZN dE EAV,LOGFT$FROM BetaShape v2.4 (Jun-2024) 2023MO21.                     
+ 60ZN dG CC$FROM BrIcc v2.3e (17-Jun-2020) 2008Ki07, "Frozen Orbitals" appr.    
  60ZN dL E$Least-squares fitting is done by GLSC (version 18-Feb-2025)          
  60ZN c  2001Ma96: {+60}Ga was produced via the {+28}Si({+36}Ar,p3n) fusion     
  60ZN2c  evaporation reaction using a 4.71 MeV/u {+36}Ar primary beam at the GSI
@@ -13,13 +13,13 @@
  60ZN5c  and |b|a measurements in a beam-on/beam-off mode. Positrons were       
  60ZN6c  detected using a plastic scintillator and |g rays were detected using  
  60ZN7c  Ge detectors. Particles were detected using Si |DE-E telescopes at     
- 60ZN8c  another beam line. Measured E|g, I|g, |g|g, |b|g, E{-p}, I{-p}, E{-|a},
- 60ZN9c  and I{-|a}. Deduced levels, J, |p, {+60}Ga T{-1/2}, and {+60}Ga mass   
- 60ZNac  using the known {+60}Zn mass, the E|g from the T=1 IAS in {+60}Zn, and 
- 60ZNbc  the Coulomb displacement energy systematics (1997An07). Identified a   
- 60ZNcc  total of 802 proton events and deduced %(|e+|b{++})p=1.6 {I7}.         
- 60ZNdc  Identified 9 |a candidate events and deduced %(|e+|b{++})|a<0.023      
- 60ZNec  {I20}.                                                                 
+ 60ZN8c  another beam line. Measured E|g, I|g, |g|g, |b|g, E{-p}(>0.6 MeV),     
+ 60ZN9c  I{-p}, E{-|a}, and I{-|a}. Deduced levels, J, |p, {+60}Ga T{-1/2}, and 
+ 60ZNAc  {+60}Ga mass using the known {+60}Zn mass, the E|g from the T=1 IAS in 
+ 60ZNBc  {+60}Zn, and the Coulomb displacement energy systematics (1997An07).   
+ 60ZNCc  Identified a total of 802 proton events and deduced %(|e+|b{++})p=1.6  
+ 60ZNDc  {I7}. Identified 9 |a candidate events and deduced %(|e+|b{++})|a<0.023
+ 60ZNEc  {I20}.                                                                 
  60ZN c  2021Or01: {+60}Ga was produced via the projectile fragmentation of a   
  60ZN2c  345-MeV/u {+78}Kr primary beam impinging on a 5-mm thick {+9}Be target,
  60ZN3c  identified in the RIKEN BigRIPS separator by B|r-|DE-ToF, transported  
@@ -27,10 +27,11 @@
  60ZN5c  Wide-range Active Silicon Strip Stopper Array for Beta and ion         
  60ZN6c  detection (WAS3ABi) consisting of three 1-mm-thick DSSDs. |g rays were 
  60ZN7c  detected using the EUroball-RIKEN Cluster Array of 12 cluster-type Ge  
- 60ZN8c  detectors. Measured E|g, I|g, |g|g, |b|g, |bp, and implant-decay time  
- 60ZN9c  correlations. Deduced levels, {+60}Ga T{-1/2}, and {+60}Ga mass using  
- 60ZNac  the known {+59}Zn mass, the E{-p} and E|g from the T=2 IAS in {+60}Ga  
- 60ZNbc  populated by {+60}Ge decay in the same experiment.                     
+ 60ZN8c  detectors. Measured E{-p}(>1.5 MeV), E|g, I|g, p|g-coin, |b|g-coin,    
+ 60ZN9c  |g|g-coin, and implant-decay time correlations. Deduced levels, {+60}Ga
+ 60ZNAc  T{-1/2}, and {+60}Ga mass using the known {+59}Zn mass, the E{-p} and  
+ 60ZNBc  E|g from the T=2 IAS in {+60}Ga populated by {+60}Ge decay in the same 
+ 60ZNCc  experiment.                                                            
  60ZN c  The decay scheme is considered incomplete due to a large gap of 9 MeV  
  60ZN2c  between the highest observed level at E=4852 and Q(|e)=14160 {I15}.    
  60ZN3c  There may be missing transitions from unobserved levels in the gap.    
