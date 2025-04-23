@@ -13,13 +13,13 @@
  60ZN5c  and |b|a measurements in a beam-on/beam-off mode. Positrons were       
  60ZN6c  detected using a plastic scintillator and |g rays were detected using  
  60ZN7c  Ge detectors. Particles were detected using Si |DE-E telescopes at     
- 60ZN8c  another beam line. Measured E|g, I|g, |g|g, |b|g, E{-p}(>0.6 MeV),     
- 60ZN9c  I{-p}, E{-|a}, and I{-|a}. Deduced levels, J, |p, {+60}Ga T{-1/2}, and 
- 60ZNAc  {+60}Ga mass using the known {+60}Zn mass, the E|g from the T=1 IAS in 
- 60ZNBc  {+60}Zn, and the Coulomb displacement energy systematics (1997An07).   
- 60ZNCc  Identified a total of 802 proton events and deduced %(|e+|b{++})p=1.6  
- 60ZNDc  {I7}. Identified 9 |a candidate events and deduced %(|e+|b{++})|a<0.023
- 60ZNEc  {I20}.                                                                 
+ 60ZN8c  another beam line. Measured E|g, I|g, |g|g-coin, |b|g-coin, E{-p}(>0.6 
+ 60ZN9c  MeV), I{-p}, E{-|a}, and I{-|a}. Deduced levels, J, |p, {+60}Ga        
+ 60ZNAc  T{-1/2}, and {+60}Ga mass using the known {+60}Zn mass, the E|g from   
+ 60ZNBc  the T=1 IAS in {+60}Zn, and the Coulomb displacement energy systematics
+ 60ZNCc  (1997An07). Identified a total of 802 proton events and deduced        
+ 60ZNDc  %(|e+|b{++})p=1.6 {I7}. Identified 9 |a candidate events and deduced   
+ 60ZNEc  %(|e+|b{++})|a<0.023 {I20}.                                            
  60ZN c  2021Or01: {+60}Ga was produced via the projectile fragmentation of a   
  60ZN2c  345-MeV/u {+78}Kr primary beam impinging on a 5-mm thick {+9}Be target,
  60ZN3c  identified in the RIKEN BigRIPS separator by B|r-|DE-ToF, transported  
